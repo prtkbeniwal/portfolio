@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.81970a1a.css",
+    "main.js": "/portfolio/static/js/main.f725195d.js",
+    "static/js/787.128fc6e9.chunk.js": "/portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/bannerbg.png": "/portfolio/static/media/bannerbg.cc1273af450504afe755.png",
+    "static/media/headerimg.svg": "/portfolio/static/media/headerimg.400baa4260daac98f2b2b1ccf08761c2.svg",
+    "static/media/CentraNo2-Bold.ttf": "/portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footerbg.png": "/portfolio/static/media/footerbg.7bd67c0f73571d0acc02.png",
+    "static/media/contactimg.svg": "/portfolio/static/media/contactimg.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
+    "static/media/Fit-Club.jpg": "/portfolio/static/media/Fit-Club.e1d203d20eb86c807af6.jpg",
+    "static/media/Upcoming.jpg": "/portfolio/static/media/Upcoming.e1d203d20eb86c807af6.jpg",
+    "static/media/gpt-3.jpg": "/portfolio/static/media/gpt-3.e1d203d20eb86c807af6.jpg",
+    "static/media/meter2.svg": "/portfolio/static/media/meter2.a0050a378a929877ac8144049ee0a1bf.svg",
+    "static/media/meter1.svg": "/portfolio/static/media/meter1.c61a2fc3fdd79d551b751c6c0f890ab6.svg",
+    "static/media/meter3.svg": "/portfolio/static/media/meter3.2eda919df32db1af75a222eb99d3a931.svg",
+    "static/media/navicon3.svg": "/portfolio/static/media/navicon3.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.3c6c479cfa1d154dbfccd4d5f91320f4.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/navicon1.svg": "/portfolio/static/media/navicon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "static/media/navicon2.svg": "/portfolio/static/media/navicon2.a39f0e5e47e442dafcc5c9c320f19f6f.svg",
+    "main.81970a1a.css.map": "/portfolio/static/css/main.81970a1a.css.map",
+    "main.f725195d.js.map": "/portfolio/static/js/main.f725195d.js.map",
+    "787.128fc6e9.chunk.js.map": "/portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81970a1a.css",
+    "static/js/main.f725195d.js"
+  ]
+}
