@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Centra;
+    src: url('./assets/fonts/CentraNo2-Bold.ttf');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: Centra;
+    src: url('./assets/fonts/CentraNo2-Medium.ttf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Centra;
+    src: url('./assets/fonts/CentraNo2-Book.ttf');
+    font-weight: 400;
+}
+
+:root {
+    --font-family: 'Centra', sans-serif;
+    
+    --gradient-text: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

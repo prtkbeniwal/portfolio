@@ -1,0 +1,22 @@
+.footer  {
+    background-image: url('../assets/footerbg.png');
+    border: 1px solid transparent;
+    /* border: 1px solid transparent; */
+    /* removing border reduces background image */
+}
+
+.content-footer {
+    margin: 150px auto 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-left>img {
+    width: 10rem;
+}
+
+.link-social-footer {
+    display: flex;
+    justify-content: flex-end;
+}

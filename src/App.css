@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+html {
+    scroll-padding-top: 75px;
+}
+
+body {
+    font-weight: 400;
+    background-color: #121212;
+    color: white;
+    font-family: 'Centra', sans-serif;
+}
+
+.section-padding {
+    padding: 4rem 0rem;
+}
+
+.section-margin {
+    margin: 0rem 4.5rem;
+}
+
+.max-width {
+    max-width: 1320px;
+    margin: 0 auto;
+}
+
+.gradient-text {
+    background: var(--gradient-text);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

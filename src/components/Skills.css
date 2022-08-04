@@ -1,0 +1,43 @@
+.skills-container {
+    padding: 8rem 0;
+}
+
+.skills {
+    background-color: #151515;
+    border-radius: 4rem;
+    border: 1px solid none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 1;
+}
+
+.skills>h1 {
+    font-size: 45px;
+    font-weight: bold;
+    padding: 2rem;
+}
+
+.skills>p {
+    color: #b8b8b8;
+    font-size: 18px;
+    letter-spacing: .8px;
+    line-height: 1.5em;
+    max-width: 60%;
+    text-align: center;
+}
+
+.skills-contents {
+    display: flex;
+    align-items: center;
+    gap: 8rem;
+    margin: 50px 0;
+}
+
+.skill {
+    font-size: 35px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
